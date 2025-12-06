@@ -3,12 +3,12 @@
 This repository contains the core implementation of our research work on modeling how sentiment and trust influence the propagation of positive and negative information in online social networks.
 The model extends classical diffusion frameworks and integrates Graph Neural Networks (EvolveGCN) for temporal prediction.
 
--- facebook.py       # Real-world diffusion experiments on Facebook network
--- synthetic.py      # Synthetic graph generation + diffusion simulations
--- toy.py            # Minimal example to understand the diffusion process
--- gnn.py            # GNN/EvolveGCN implementation for temporal modeling
--- requirements.txt  # Python dependencies
--- README.md         # Project documentation
+- facebook.py       # Real-world diffusion experiments on Facebook network
+- synthetic.py      # Synthetic graph generation + diffusion simulations
+- toy.py            # Minimal example to understand the diffusion process
+- gnn.py            # GNN/EvolveGCN implementation for temporal modeling
+- requirements.txt  # Python dependencies
+- README.md         # Project documentation
 
 
 **Sentiment-Aware Competitive Graph Diffusion Model for Negative Information Control in Online Social Networks**
